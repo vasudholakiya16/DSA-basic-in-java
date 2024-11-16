@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_statement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +43,79 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Switch_statement">
-    <configuration name="Switch_statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch_statement" />
+  <component name="RunManager" selected="Application.VariableArguments">
+    <configuration name="Shadowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Shadowing" />
       <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="input" />
+    <configuration name="VariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.VariableArguments" />
       <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="changeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.changeValue" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_of_number_in_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.sum_of_number_in_function" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swap_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.swap_number" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch_statement" />
-        <item itemvalue="Application.input" />
+        <item itemvalue="Application.VariableArguments" />
+        <item itemvalue="Application.Shadowing" />
+        <item itemvalue="Application.changeValue" />
+        <item itemvalue="Application.swap_number" />
+        <item itemvalue="Application.sum_of_number_in_function" />
       </list>
     </recent_temporary>
   </component>

@@ -18,7 +18,7 @@ public class Switch_statement {
             System.out.println("Please enter a valid fruit name");
         }
 
-         switch statement
+//         switch statement
         switch (fruit) {
             case "mango":
                 System.out.println("King of fruits");
