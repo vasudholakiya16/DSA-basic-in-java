@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch_statement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +42,13 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariableArguments">
-    <configuration name="Shadowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.Shadowing" />
+  <component name="RunManager" selected="Application.maxItem">
+    <configuration name="ArrayList_java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicInfoArrayAndArrayList.ArrayList_java" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="basicInfoArrayAndArrayList.MultiDimantionalArrayList" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.VariableArguments" />
+    <configuration name="ColumnNotFixSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicInfoArrayAndArrayList.ColumnNotFixSize" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="basicInfoArrayAndArrayList.MultiDimantionalArrayList" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="changeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.changeValue" />
+    <configuration name="MultiDimantionalArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicInfoArrayAndArrayList.MultiDimantionalArrayList" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="basicInfoArrayAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_of_number_in_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.sum_of_number_in_function" />
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicInfoArrayAndArrayList.Swap" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="basicInfoArrayAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swap_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.swap_number" />
+    <configuration name="maxItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicInfoArrayAndArrayList.maxItem" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Functions.*" />
+          <option name="PATTERN" value="basicInfoArrayAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VariableArguments" />
-        <item itemvalue="Application.Shadowing" />
-        <item itemvalue="Application.changeValue" />
-        <item itemvalue="Application.swap_number" />
-        <item itemvalue="Application.sum_of_number_in_function" />
+        <item itemvalue="Application.maxItem" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.MultiDimantionalArrayList" />
+        <item itemvalue="Application.ArrayList_java" />
+        <item itemvalue="Application.ColumnNotFixSize" />
       </list>
     </recent_temporary>
   </component>
