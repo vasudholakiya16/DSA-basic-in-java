@@ -45,20 +45,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PositionofanElementinInfiniteSortedArray">
-    <configuration name="Basic_Info_binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.Basic_Info_binarySearch" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SearchInRotatedSortedArray">
     <configuration name="CeilingOffTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchQuestion.CeilingOffTheNumber" />
       <module name="DSA basic in java" />
@@ -111,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.leetCodeQuestion.SearchInRotatedSortedArray" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.leetCodeQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInRotatedSortedArray" />
         <item itemvalue="Application.PositionofanElementinInfiniteSortedArray" />
         <item itemvalue="Application.FloorNumberOfTheGivenNumber" />
         <item itemvalue="Application.CeilingOffTheNumber" />
         <item itemvalue="Application.OrderAgnosticBinarySearchCode" />
-        <item itemvalue="Application.Basic_Info_binarySearch" />
       </list>
     </recent_temporary>
   </component>
