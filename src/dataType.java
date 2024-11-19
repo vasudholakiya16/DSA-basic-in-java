@@ -50,7 +50,7 @@ public class dataType {
         System.out.println("Array: ");
         System.out.println("Long: " + largeValue);
         for (int num : numbers) {
-            System.out.print(num + " ");
+            System.out.print(num + " "); 
         }
     }
 }
