@@ -41,31 +41,35 @@ public class SearchInRotatedSortedArray {
         int end = arr.length -1;
         while (start<=end){
             int mid = start +(end-start)/2;
-            // 4 case overhear
-            //            case - 1
-        if (mid<end && arr[mid]>arr[mid+1]){
-            /*
-            once we write mid+1 this (is not exceeding or of the range)
-            in mains (let consider our mid is lest element of the array,
-            and (*** we check the mid+1 at that case our answer is index out of
-             bound*** ) to solve the problem we use imd<end value in case-1)
-             */
-            return mid;
-        }
-        // case -2
-            if (mid>end &&arr[mid]<arr[mid-1]){
-                return mid-1;
-            }
-            // case-3
+            // 3 case overhear
 
-            if (arr[mid] <= arr[start]){
-                end =mid-1;
-            }else {
-                start = mid+1;
+            // Case 1: mid is greater than the next element, pivot found at mid
+
+
+            if (mid < end && arr[mid] > arr[mid + 1]) {
+                 /*
+//            once we write mid+1 this (is not exceeding or of the range)
+//            in mains (let consider our mid is lest element of the array,
+//            and (*** we check the mid+1 at that case our answer is index out of
+//             bound*** ) to solve the problem we use imd<end value in case-1)
+//             */
+                return mid;
+            }
+
+            // Case 2: mid is less than the previous element, pivot found at mid - 1
+            if (mid > start && arr[mid] < arr[mid - 1]) {
+                return mid - 1;
+            }
+
+            // Case 3: If the left side is sorted, go to the unsorted part
+            if (arr[mid] >= arr[start]) {
+                start = mid + 1; // Search in the right half
+            } else {
+                end = mid - 1; // Search in the left half
             }
         }
-        return -1;
 
+        return -1; // No pivot found, array is not rotated
     }
     static int search(int[] nums, int target) {
         int pivot=findPivot(nums);
