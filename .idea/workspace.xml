@@ -45,7 +45,20 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CommonFactorOfTwoNumber">
+  <component name="RunManager" selected="Application.BasicCodeInMultidimensionalArraysIfRowColumnMatrix">
+    <configuration name="BasicCodeInMultidimensionalArraysIfRowColumnMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.MultidimensionalArrays.BasicCodeInMultidimensionalArraysIfRowColumnMatrix" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.MultidimensionalArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommonFactorOfTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.Conditionalsloops.CommonFactorOfTwoNumber" />
       <module name="DSA basic in java" />
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.PrintLargestNumber" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicCodeInMultidimensionalArraysIfRowColumnMatrix" />
         <item itemvalue="Application.CommonFactorOfTwoNumber" />
         <item itemvalue="Application.FactorsOfNumber" />
         <item itemvalue="Application.DigitProductSumDifference" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.PrintLargestNumber" />
       </list>
     </recent_temporary>
   </component>
