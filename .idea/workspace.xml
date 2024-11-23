@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/leetCodeQuestion/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/leetCodeQuestion/SearchInRotatedSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +45,13 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RotationCount">
-    <configuration name="CeilingOffTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchQuestion.CeilingOffTheNumber" />
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="EvenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.EvenOddNumber" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.BinarySearchQuestion.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloorNumberOfTheGivenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearchQuestion.FloorNumberOfTheGivenNumber" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.FibonacciSeries" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.BinarySearchQuestion.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionofanElementinInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.leetCodeQuestion.PositionofanElementinInfiniteSortedArray" />
+    <configuration name="PrintLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.PrintLargestNumber" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.leetCodeQuestion.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.leetCodeQuestion.RotationCount" />
+    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.SimpleInterest" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.leetCodeQuestion.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.leetCodeQuestion.SearchInRotatedSortedArray" />
+    <configuration name="TakeStringAsIputAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.TakeStringAsIputAndPrint" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.leetCodeQuestion.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotationCount" />
-        <item itemvalue="Application.SearchInRotatedSortedArray" />
-        <item itemvalue="Application.PositionofanElementinInfiniteSortedArray" />
-        <item itemvalue="Application.FloorNumberOfTheGivenNumber" />
-        <item itemvalue="Application.CeilingOffTheNumber" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.PrintLargestNumber" />
+        <item itemvalue="Application.SimpleInterest" />
+        <item itemvalue="Application.TakeStringAsIputAndPrint" />
+        <item itemvalue="Application.EvenOddNumber" />
       </list>
     </recent_temporary>
   </component>
