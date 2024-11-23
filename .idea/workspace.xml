@@ -45,13 +45,39 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciSeries">
-    <configuration name="EvenOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.EvenOddNumber" />
+  <component name="RunManager" selected="Application.CommonFactorOfTwoNumber">
+    <configuration name="CommonFactorOfTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.Conditionalsloops.CommonFactorOfTwoNumber" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
+          <option name="PATTERN" value="AssignmentQuestionSol.Conditionalsloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitProductSumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.Conditionalsloops.DigitProductSumDifference" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentQuestionSol.Conditionalsloops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.Conditionalsloops.FactorsOfNumber" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentQuestionSol.Conditionalsloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,39 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.SimpleInterest" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TakeStringAsIputAndPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.BasicQuestion_inJava.TakeStringAsIputAndPrint" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentQuestionSol.BasicQuestion_inJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommonFactorOfTwoNumber" />
+        <item itemvalue="Application.FactorsOfNumber" />
+        <item itemvalue="Application.DigitProductSumDifference" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrintLargestNumber" />
-        <item itemvalue="Application.SimpleInterest" />
-        <item itemvalue="Application.TakeStringAsIputAndPrint" />
-        <item itemvalue="Application.EvenOddNumber" />
       </list>
     </recent_temporary>
   </component>
