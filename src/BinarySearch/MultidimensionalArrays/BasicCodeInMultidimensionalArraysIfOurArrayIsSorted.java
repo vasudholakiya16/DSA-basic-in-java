@@ -1,5 +1,7 @@
 package BinarySearch.MultidimensionalArrays;
 
+import java.util.Arrays;
+
 public class BasicCodeInMultidimensionalArraysIfOurArrayIsSorted {
 
     static int[] search(int [][] matrix,int target){
@@ -23,6 +25,15 @@ public class BasicCodeInMultidimensionalArraysIfOurArrayIsSorted {
             int mid = rowStart+(rowEnd-rowStart)/2;
 
 //            case-1  our element is our target
+ /*                  |0| |1| |2| |3|
+                |0|{ |1|,|2|,|3|,|4|},
+                |1|{ |5|,|6|,|7|,|8|},
+                |2|{ |9|,|10|,|11|,|12|},
+                |3|{|13|,|14|,|15|,|16|},
+
+                (0+3)/2 = 1 index is our mid-column
+               check in mid-column index (0+3)/2 = 1 index is our mid-element in mid-column
+             */
 
             if (matrix[mid][midColumn] == target){
                 return new int[]{mid,midColumn};
@@ -50,9 +61,22 @@ public class BasicCodeInMultidimensionalArraysIfOurArrayIsSorted {
             return new int[]{rowStart+1,midColumn};
         }
         /* otherwise search in 1st half  */
+        if (target <= matrix[rowStart][midColumn-1]){
+            return simpleBinarySearch(matrix,rowStart,0,midColumn-1,target);
+        }
         /* otherwise search in 2nd half  */
+        if (target>=matrix[rowStart][midColumn+1] && target<=matrix[rowStart][column-1]){
+            return simpleBinarySearch(matrix,rowStart,midColumn+1,column-1,target);
+        }
         /* otherwise search in 3rd half  */
+        if (target<=matrix[rowStart+1][midColumn-1]){
+            return  simpleBinarySearch(matrix,rowStart+1,0,midColumn-1,target);
+        }
         /* otherwise search in 4th half  */
+        else {
+         return simpleBinarySearch(matrix,rowStart+1,midColumn+1,column-1,target);
+
+        }
 
     }
 
@@ -75,6 +99,14 @@ public class BasicCodeInMultidimensionalArraysIfOurArrayIsSorted {
     }
 
     public static void main(String[] args) {
+
+        int [][] arr = {
+                {1,2,3,4},
+                {5,6,7,8},
+                {9,10,11,12},
+                {13,14,15,16},
+        };
+        System.out.println(Arrays.toString(search(arr, 19)));
 
     }
 }
