@@ -45,7 +45,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Basic_info_selectionSort">
+  <component name="RunManager" selected="Application.basic_code_InsertionSortAlgorithm">
     <configuration name="BasicCodeInMultidimensionalArraysIfOurArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.MultidimensionalArrays.BasicCodeInMultidimensionalArraysIfOurArrayIsSorted" />
       <module name="DSA basic in java" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonFactorOfTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentQuestionSol.Conditionalsloops.CommonFactorOfTwoNumber" />
+    <configuration name="basic_code_InsertionSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSortAlgorithm.basic_code_InsertionSortAlgorithm" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentQuestionSol.Conditionalsloops.*" />
+          <option name="PATTERN" value="Sorting.InsertionSortAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.basic_code_InsertionSortAlgorithm" />
         <item itemvalue="Application.Basic_info_selectionSort" />
         <item itemvalue="Application.basic_example_bubbleSort" />
         <item itemvalue="Application.BasicCodeInMultidimensionalArraysIfOurArrayIsSorted" />
         <item itemvalue="Application.BasicCodeInMultidimensionalArraysIfRowColumnMatrix" />
-        <item itemvalue="Application.CommonFactorOfTwoNumber" />
       </list>
     </recent_temporary>
   </component>
