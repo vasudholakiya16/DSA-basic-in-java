@@ -45,13 +45,39 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MissingNumber">
-    <configuration name="Basic_info_selectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort.Basic_info_selectionSort" />
+  <component name="RunManager" selected="Application.SetMismatch">
+    <configuration name="FindAllDuplicatesinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindAllDuplicatesinanArray" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.SelectionSort.*" />
+          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindAllNumbersDisappearedinanArray" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindtheDuplicateNumber" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,38 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic_code_InsertionSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.InsertionSortAlgorithm.basic_code_InsertionSortAlgorithm" />
+    <configuration name="SetMismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.SetMismatch" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.InsertionSortAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic_example_bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSortAlgorithm.basic_example_bubbleSort" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.BubbleSortAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic_questionIn_Cyclic_sort_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.basic_questionIn_Cyclic_sort_algo" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.*" />
+          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetMismatch" />
+        <item itemvalue="Application.FindAllDuplicatesinanArray" />
+        <item itemvalue="Application.FindtheDuplicateNumber" />
+        <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.basic_questionIn_Cyclic_sort_algo" />
-        <item itemvalue="Application.basic_code_InsertionSortAlgorithm" />
-        <item itemvalue="Application.Basic_info_selectionSort" />
-        <item itemvalue="Application.basic_example_bubbleSort" />
       </list>
     </recent_temporary>
   </component>
