@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +46,13 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SetMismatch">
-    <configuration name="FindAllDuplicatesinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindAllDuplicatesinanArray" />
+  <component name="RunManager">
+    <configuration name="OperatorsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.OperatorsInJava" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="PATTERN" value="StringsandStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindAllNumbersDisappearedinanArray" />
+    <configuration name="Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.Output" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="PATTERN" value="StringsandStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindtheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.FindtheDuplicateNumber" />
+    <configuration name="StringPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.StringPerformance" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="PATTERN" value="StringsandStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.MissingNumber" />
+    <configuration name="prettyPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.prettyPrinting" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="PATTERN" value="StringsandStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetMismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.SetMismatch" />
+    <configuration name="stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.stringBuilder" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.CyclicSortAlgo.LeetCodeQuestion.*" />
+          <option name="PATTERN" value="StringsandStringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SetMismatch" />
-        <item itemvalue="Application.FindAllDuplicatesinanArray" />
-        <item itemvalue="Application.FindtheDuplicateNumber" />
-        <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
-        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.stringBuilder" />
+        <item itemvalue="Application.StringPerformance" />
+        <item itemvalue="Application.OperatorsInJava" />
+        <item itemvalue="Application.prettyPrinting" />
+        <item itemvalue="Application.Output" />
       </list>
     </recent_temporary>
   </component>
