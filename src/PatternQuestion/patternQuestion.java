@@ -180,7 +180,7 @@ public class patternQuestion {
         System.out.println("Pattern 5 Answer");
         pattern5(4);
         System.out.println("Pattern 28 Answer");
-        pattern28(4);
+        pattern28(4); 
         System.out.println("Pattern 30 Answer");
         pattern30(4);
         System.out.println("Pattern 17 Answer");

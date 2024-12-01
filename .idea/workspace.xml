@@ -46,7 +46,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.patternQuestion">
+  <component name="RunManager">
     <configuration name="OperatorsInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.OperatorsInJava" />
       <module name="DSA basic in java" />
