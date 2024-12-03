@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternQuestion/patternQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternQuestion/patternQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/FibonachiNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/FibonachiNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,10 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorsInJava" />
         <item itemvalue="Application.patternQuestion" />
         <item itemvalue="Application.stringBuilder" />
         <item itemvalue="Application.StringPerformance" />
-        <item itemvalue="Application.OperatorsInJava" />
         <item itemvalue="Application.prettyPrinting" />
       </list>
     </recent_temporary>
