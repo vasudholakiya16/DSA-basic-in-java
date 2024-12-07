@@ -25,7 +25,7 @@ public class FibonachiNumber {
 
 
         System.out.print("The the number of fibo is : ");
-        printFibonacciSequence( 8);  // Prints the sequence from 0 to the 8th Fibonacci number
+        printFibonacciSequence( 50);  // Prints the sequence from 0 to the 8th Fibonacci number
     }
 }
 
