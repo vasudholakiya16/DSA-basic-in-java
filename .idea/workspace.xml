@@ -45,7 +45,20 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Factors_of_a_number">
+    <configuration name="Factors_of_a_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maths_for_Data_Structures_and_Algorithms.Factors_of_a_number" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Maths_for_Data_Structures_and_Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Find_Unique_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BitwiseOperatorsNumberSystemsMathsforDSA_part_one.Find_Unique_number" />
       <module name="DSA basic in java" />
@@ -85,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patternQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatternQuestion.patternQuestion" />
+    <configuration name="Square_Root_of_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maths_for_Data_Structures_and_Algorithms.Square_Root_of_Number" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternQuestion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsandStringBuilder.stringBuilder" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringsandStringBuilder.*" />
+          <option name="PATTERN" value="Maths_for_Data_Structures_and_Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factors_of_a_number" />
+        <item itemvalue="Application.Square_Root_of_Number" />
         <item itemvalue="Application.NumberOfDigits" />
         <item itemvalue="Application.Find_Unique_number" />
         <item itemvalue="Application.OperatorsInJava" />
-        <item itemvalue="Application.patternQuestion" />
-        <item itemvalue="Application.stringBuilder" />
       </list>
     </recent_temporary>
   </component>
