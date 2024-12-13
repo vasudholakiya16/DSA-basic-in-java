@@ -106,7 +106,7 @@ public class BasicCodeInMultidimensionalArraysIfOurArrayIsSorted {
                 {9,10,11,12},
                 {13,14,15,16},
         };
-        System.out.println(Arrays.toString(search(arr, 19)));
+        System.out.println(Arrays.toString(search(arr, 5)));
 
     }
 }
