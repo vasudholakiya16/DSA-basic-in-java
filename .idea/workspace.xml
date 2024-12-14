@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch/MultidimensionalArrays/BasicCodeInMultidimensionalArraysIfOurArrayIsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/MultidimensionalArrays/BasicCodeInMultidimensionalArraysIfOurArrayIsSorted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Unique_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitwiseOperatorsNumberSystemsMathsforDSA_part_one.Find_Unique_number" />
+    <configuration name="Find_Array_Sorted_or_Not" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion_Array_Questions.Find_Array_Sorted_or_Not" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitwiseOperatorsNumberSystemsMathsforDSA_part_one.*" />
+          <option name="PATTERN" value="Recursion.Recursion_Array_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Print_One_to_N_number" />
         <item itemvalue="Application.Factors_of_a_number" />
+        <item itemvalue="Application.Find_Array_Sorted_or_Not" />
+        <item itemvalue="Application.Print_One_to_N_number" />
         <item itemvalue="Application.Square_Root_of_Number" />
         <item itemvalue="Application.NumberOfDigits" />
-        <item itemvalue="Application.Find_Unique_number" />
       </list>
     </recent_temporary>
   </component>
