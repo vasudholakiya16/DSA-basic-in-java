@@ -23,5 +23,8 @@ public class fibonachiNumber_largeamountt_of_number {
         for (int i = 0; i <10 ; i++) {
             System.out.print(fiboFormula(i) + " ");
         }
+        for (int i = 0; i <10 ; i++) {
+            System.out.print(fibo(i) + " ");
+        }
     }
 }
