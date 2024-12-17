@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort/Pattern_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort/Pattern_Question.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Selection_Sort">
+  <component name="RunManager" selected="Application.basic_example">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.BubbleSort" />
       <module name="DSA basic in java" />
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonachiNumber_largeamountt_of_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.fibonachiNumber_largeamountt_of_number" />
+    <configuration name="basic_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Merge_Sort_Using_Recursion.basic_example" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Sorting.Merge_Sort_Using_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.basic_example" />
         <item itemvalue="Application.Selection_Sort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Pattern_Question" />
         <item itemvalue="Application.Even_Odd_number" />
-        <item itemvalue="Application.fibonachiNumber_largeamountt_of_number" />
       </list>
     </recent_temporary>
   </component>
