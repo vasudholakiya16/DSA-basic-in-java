@@ -45,7 +45,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.basic_example">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.BubbleSort" />
       <module name="DSA basic in java" />
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Even_Odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitwiseOperatorsNumberSystemsMathsforDSA_part_one.Even_Odd_number" />
+    <configuration name="Pattern_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.Pattern_Question" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitwiseOperatorsNumberSystemsMathsforDSA_part_one.*" />
+          <option name="PATTERN" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.Pattern_Question" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.Quick_Sort_Using_Recursion.QuickSort" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.*" />
+          <option name="PATTERN" value="Sorting.Quick_Sort_Using_Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.basic_example" />
         <item itemvalue="Application.Selection_Sort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Pattern_Question" />
-        <item itemvalue="Application.Even_Odd_number" />
       </list>
     </recent_temporary>
   </component>
