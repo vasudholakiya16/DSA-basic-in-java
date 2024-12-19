@@ -21,7 +21,7 @@ public class array_of_primitives {
             System.out.print("Enter The value of array is ");
             arr[i] = sc.nextInt();
         }
-        for (int j : arr) { // hear j is represent element of the array
+        for (int j : arr) { // hear j is represented element of the array
             System.out.print("Enter The value of array is ");
             System.out.print(j + " ");
         }

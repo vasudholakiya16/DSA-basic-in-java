@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="696c1e7f-25d7-4ef1-8489-adc5af3a51a2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basicInfoArrayAndArrayList/array_of_primitives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basicInfoArrayAndArrayList/array_of_primitives.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +46,9 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.BubbleSort" />
-      <module name="DSA basic in java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pattern_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort.Pattern_Question" />
       <module name="DSA basic in java" />
       <extension name="coverage">
         <pattern>
@@ -98,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Skip_a_Charactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion_Subset_Subsequence_String_Questions.StrinQuestion.StringQuestion.Skip_a_Charactor" />
+      <module name="DSA basic in java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.Recursion_Subset_Subsequence_String_Questions.StrinQuestion.StringQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="basic_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.Merge_Sort_Using_Recursion.basic_example" />
       <module name="DSA basic in java" />
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Skip_a_Charactor" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.basic_example" />
         <item itemvalue="Application.Selection_Sort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Pattern_Question" />
       </list>
     </recent_temporary>
   </component>
@@ -146,15 +147,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/BinarySearchQuestion/FloorNumberOfTheGivenNumber.java</url>
-          <line>37</line>
-          <properties class="BinarySearch.BinarySearchQuestion.FloorNumberOfTheGivenNumber" method="FloorNumber">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Recursion/Recursion__Pattern_Questions_Bubble_Sort_Selection_Sort/BubbleSort.java</url>
           <line>5</line>
