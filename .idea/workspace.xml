@@ -45,6 +45,11 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Object_Orianted_Programming.OOP_One" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorting.Quick_Sort_Using_Recursion.QuickSort" />
