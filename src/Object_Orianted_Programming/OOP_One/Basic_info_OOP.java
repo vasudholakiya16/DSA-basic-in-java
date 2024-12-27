@@ -72,7 +72,7 @@ public class Basic_info_OOP {
         16
         Het Dholakiya
         50.6
-       
+
                 */
 
 
