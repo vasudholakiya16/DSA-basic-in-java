@@ -75,6 +75,22 @@ public class Basic_info_OOP {
 
                 */
 
+        Student random = new Student(vasu);
+        System.out.println(random.nameStudent);
+
+        Student empty = new Student();
+        System.out.println(empty.nameStudent);
+
+
+        Student one = new Student();
+        Student two = one;
+        one.nameStudent= "Hoo..";
+        System.out.println(two.nameStudent);
+
+
+
+
+
 
 
 
@@ -97,20 +113,29 @@ class Student{
         nameStudent = newName;
 
     }
+    Student (Student other){
+        this.nameStudent=other.nameStudent;
+        this.rollNumber=other.rollNumber;
+        this.marks=other.marks;
+    }
 
     // we  need a way to add the value of the above properties object by object
     // we need one word to access every object
     Student (){
-        this.rollNumber=14;
-        this.nameStudent="Vasu";
-        this.marks= 23.50f;
+//        this.rollNumber=14;
+//        this.nameStudent="Vasu";
+//        this.marks= 23.50f;
+        this(15,"Sumit",45.2f);
 
     }
+
     Student (int rollNumber, String nameStudent,float marks ){
         this.rollNumber=rollNumber;
         this.nameStudent=nameStudent;
         this.marks= marks;
 
     }
+
+
 
 }
