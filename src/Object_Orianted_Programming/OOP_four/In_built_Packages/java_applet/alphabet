@@ -1,0 +1,4 @@
+java.applet
+Description: Used for creating applets (not commonly used in modern Java applications).
+Classes:
+Applet, etc.
