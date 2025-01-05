@@ -1,7 +1,7 @@
 package AssignmentQuestionSol.Function;
 
 import java.util.Scanner;
-// Define a method that returns the product of two numbers entered by user.
+// Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.
 public class Calculate_Area_and_Circumference_of_Circle {
 
     public static  void areaAndCircumferenceOfCircle(float r){
